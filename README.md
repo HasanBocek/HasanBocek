@@ -1,6 +1,6 @@
 # Portfolyo
 
-## Hakkımda
+## Hakkında
 
 Merhaba! Benim adım Hasan BÖCEK ve bu benim portfolio sayfam. Aşağıda deneyimlerim ve bazı projelerim hakkında bilgi bulabilirsiniz.
 
@@ -14,6 +14,10 @@ Merhaba! Benim adım Hasan BÖCEK ve bu benim portfolio sayfam. Aşağıda deney
 - Azure
 - Git and GitHub
 - Visual Studio Code
+
+## Projeler
+
+YKS hazırlık sürecinde kendimi takip etmek için yaptığım bir öğrenci takip programı. [SPT](https://github.com/HaB0612/hasanbocek.com)
 
 ## İletişim
 
