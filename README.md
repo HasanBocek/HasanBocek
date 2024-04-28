@@ -1,10 +1,10 @@
-# Portfolio
+# Portfolyo
 
-## About Me
+## Hakkımda
 
 Merhaba! Benim adım Hasan BÖCEK ve bu benim portfolio sayfam. Aşağıda deneyimlerim ve bazı projelerim hakkında bilgi bulabilirsiniz.
 
-## Experience
+## Deneyimler
 
 - Node.js
 - Express.js
@@ -15,7 +15,7 @@ Merhaba! Benim adım Hasan BÖCEK ve bu benim portfolio sayfam. Aşağıda deney
 - Git and GitHub
 - Visual Studio Code
 
-## Contact
+## İletişim
 
 Eğer benimle iletişime geçmek isterseniz, bana e-posta veya sosyal medya üzerinden ulaşabilirsiniz.
 
