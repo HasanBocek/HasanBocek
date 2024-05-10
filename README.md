@@ -21,7 +21,7 @@ YKS hazırlık sürecinde kendimi takip etmek için yaptığım bir öğrenci ta
 
 ## İletişim
 
-Eğer benimle iletişime geçmek isterseniz, bana e-posta veya sosyal medya üzerinden ulaşabilirsiniz.
+Eğer benimle iletişime geçmek isterseniz, bana e-posta yoluyla ulaşabilirsiniz.
 
 - E-posta: bocekhasan@icloud.com
 - Website: [hasanbocek.com](https://hasanbocek.com/)
