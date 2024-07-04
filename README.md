@@ -6,14 +6,8 @@ Merhaba! Benim adım Hasan BÖCEK ve bu benim portfolio sayfam. Aşağıda deney
 
 ## Deneyimler
 
+- Javascript
 - Node.js
-- Express.js
-- HTML
-- CSS
-- MongoDB
-- Azure
-- Git and GitHub
-- Visual Studio Code
 
 ## Projeler
 
