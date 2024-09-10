@@ -11,9 +11,9 @@ Merhaba! Benim adım Hasan BÖCEK ve bu benim portfolio sayfam. Aşağıda deney
 
 ## Projeler
 
-YKS hazırlık sürecinde kendimi takip etmek için yaptığım bir öğrenci takip programı. [SPT](https://github.com/HaB0612/SPT)
+YKS hazırlık sürecinde kendimi takip etmek için yaptığım bir öğrenci takip programı. [SPT](https://github.com/HasanBocek/SPT)
 
-Otel yönetimi için yaptığım bir Otel Yönetim Sistemi. [HPMS](https://github.com/HaB0612/HPMS-Backend)
+Otel yönetimi için yaptığım bir Otel Yönetim Sistemi. [HPMS](https://github.com/HasanBocek/HPMS-Backend)
 
 ## İletişim
 
