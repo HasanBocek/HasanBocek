@@ -1,23 +1,23 @@
-# Portfolyo
+#Portfolio
 
-## Hakkında
+##About
 
-Merhaba! Benim adım Hasan BÖCEK ve bu benim portfolio sayfam. Aşağıda deneyimlerim ve bazı projelerim hakkında bilgi bulabilirsiniz.
+Hi! I'm Hasan. Below are my skills and projects.
 
-## Deneyimler
+##Skills
 
- - Javascript
- - Node.js
+JavaScript
+Node.js
 
-## Projeler
+##Projects
 
-YKS hazırlık sürecinde kendimi takip etmek için yaptığım bir öğrenci takip programı. [SPT](https://github.com/HasanBocek/SPT)
+SPT: A student proccess tracking app. [Git]([https://hasanbocek.com/](https://github.com/HasanBocek/SPT))
+HPMS: A hotel property management system. [Git]([https://hasanbocek.com/](https://github.com/HasanBocek/HPMS-Backend))
 
-Otel yönetimi için yaptığım bir Otel Yönetim Sistemi. [HPMS](https://github.com/HasanBocek/HPMS-Backend)
+##Contact
 
-## İletişim
+Feel free to reach out via email.
 
-Eğer benimle iletişime geçmek isterseniz, bana e-posta yoluyla ulaşabilirsiniz.
+Email: bocekhasan@icloud.com
+Website: [hasanbocek.com](https://hasanbocek.com/)
 
-- E-posta: bocekhasan@icloud.com
-- Website: [hasanbocek.com](https://hasanbocek.com/)
