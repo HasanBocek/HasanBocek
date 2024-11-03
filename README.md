@@ -1,9 +1,3 @@
-# Portfolio
-
-## About
-
-Hi! I'm Hasan. Below are my skills and projects.
-
 ## Skills
 
 - JavaScript
