@@ -1,20 +1,20 @@
-#Portfolio
+# Portfolio
 
-##About
+## About
 
 Hi! I'm Hasan. Below are my skills and projects.
 
-##Skills
+## Skills
 
-JavaScript
-Node.js
+- JavaScript
+- Node.js
 
-##Projects
+## Projects
 
-SPT: A student proccess tracking app. [Git]([https://hasanbocek.com/](https://github.com/HasanBocek/SPT))
-HPMS: A hotel property management system. [Git]([https://hasanbocek.com/](https://github.com/HasanBocek/HPMS-Backend))
+- SPT: A student proccess tracking app. [Git]([https://hasanbocek.com/](https://github.com/HasanBocek/SPT))
+- HPMS: A hotel property management system. [Git]([https://hasanbocek.com/](https://github.com/HasanBocek/HPMS-Backend))
 
-##Contact
+## Contact
 
 Feel free to reach out via email.
 
