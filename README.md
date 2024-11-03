@@ -11,13 +11,13 @@ Hi! I'm Hasan. Below are my skills and projects.
 
 ## Projects
 
-- SPT: A student proccess tracking app. [Git]([https://hasanbocek.com/](https://github.com/HasanBocek/SPT))
-- HPMS: A hotel property management system. [Git]([https://hasanbocek.com/](https://github.com/HasanBocek/HPMS-Backend))
+- SPT: A student proccess tracking app. [Git](https://github.com/HasanBocek/SPT)
+- HPMS: A hotel property management system. [Git](https://github.com/HasanBocek/HPMS-Backend)
 
 ## Contact
 
 Feel free to reach out via email.
 
-Email: bocekhasan@icloud.com
-Website: [hasanbocek.com](https://hasanbocek.com/)
+- Email: bocekhasan@icloud.com
+- Website: [hasanbocek.com](https://hasanbocek.com/)
 
