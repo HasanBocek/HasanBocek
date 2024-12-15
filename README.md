@@ -5,8 +5,8 @@
 
 ## Projects
 
-- [SPT](https://github.com/HasanBocek/SPT): A student proccess tracking app. 
-- [HPMS](https://github.com/HasanBocek/Hotel-Property-Management-System): A hotel property management system. 
+- [SPT](https://github.com/HasanBocek/SPT): Student proccess tracking app. 
+- [HPMS](https://github.com/HasanBocek/Hotel-Property-Management-System): Hotel property management system. 
 
 ## Contact
 
