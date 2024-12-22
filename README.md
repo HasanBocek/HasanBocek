@@ -2,6 +2,7 @@
 
 - JavaScript
 - Node.js
+- MongoDB
 
 ## Projects
 
