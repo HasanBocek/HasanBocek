@@ -8,6 +8,7 @@
 
 - [SPT](https://github.com/HasanBocek/SPT): Student proccess tracking app. 
 - [HPMS](https://github.com/HasanBocek/Hotel-Property-Management-System): Hotel property management system. 
+- [FR](https://github.com/HasanBocek/Food-Recipe-Backend): API for food recipe sharing app. . 
 
 ## Contact
 
