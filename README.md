@@ -15,5 +15,5 @@
 Feel free to reach out via email.
 
 - Email: bocekhasan@icloud.com
-- Website: [hasanbocek.com](https://hasanbocek.com/)
+- Website: [hasanbocek.com.tr](https://hasanbocek.com.tr/)
 
